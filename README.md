@@ -4,6 +4,7 @@
 |-----| -------- |
 |**My Personal Website**| [**Visit**](https://sumitnce1.github.io)
 |**My Portfolio 1**| [**Visit**](http://sumitnce.ml)
+|**Simple Calculator**| [**Visit**](http://sumitcalsi.tk)
 
 <img src="/img/mysitefirst.png" width="100%">
 
