@@ -18,10 +18,10 @@
 |**CodeChef**| [**Visit**](https://www.codechef.com/users/sumitnce1)
 
 
-# Social
+#  Contact Social
 |Sumit| Webisite|
 |-----| -------- |
-|**My LinkDin**| [**Visit**](https://www.linkedin.com/in/sumitnce1/)
+|** LinkDin**| [**Visit**](https://www.linkedin.com/in/sumitnce1/)
 |**My Twitter**| [**Visit**](https://twitter.com/Sumitnce1)
 |**My facbook Page**| [**Visit**](https://www.facebook.com/sumitnce1/)
 |**My Instagram**| [**Visit**](https://www.instagram.com/s.sumitsingh1111/)
