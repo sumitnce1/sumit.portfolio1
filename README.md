@@ -6,7 +6,7 @@
 |**My Portfolio 1**| [**Visit**](http://sumitnce.ml)
 |**Simple Calculator**| [**Visit**](http://sumitcalsi.tk)
 
-<img src="/img/mysitefirst.png" width="100%">
+<img src="/img/mysitefirst.png" width="80%" height="50">
 
 # Coding Site
 |Sumit| Webisite|
