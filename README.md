@@ -8,8 +8,6 @@
 
 <img src="/img/mysitefirst.png"  height="100%" width="30%">
 
-# Coding Site
-|-----| -------- |
 |**GitHub**| [**Visit**](https://github.com/sumitnce1)
 |**GeeksForGeeks**| [**Visit**](https://auth.geeksforgeeks.org/user/sumitnce1/)
 |**HackerRank**| [**Visit**](https://www.hackerrank.com/sumitnce1)
