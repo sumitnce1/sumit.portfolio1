@@ -9,7 +9,6 @@
 <img src="/img/mysitefirst.png"  height="100%" width="30%">
 
 # Coding Site
-|Sumit| Webisite|
 |-----| -------- |
 |**GitHub**| [**Visit**](https://github.com/sumitnce1)
 |**GeeksForGeeks**| [**Visit**](https://auth.geeksforgeeks.org/user/sumitnce1/)
