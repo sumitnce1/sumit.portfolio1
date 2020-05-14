@@ -18,7 +18,6 @@
 
 
 #  Contact Social
-|Sumit| Webisite|
 |-----| -------- |
 |**LinkDin**| [**Visit**](https://www.linkedin.com/in/sumitnce1/)
 |**Twitter**| [**Visit**](https://twitter.com/Sumitnce)
