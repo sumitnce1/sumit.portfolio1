@@ -1,7 +1,7 @@
 # sumit.portfolio1
 # https://sumitnce1.github.io
 
-|-----| -------- |
+
 |**My Personal Website**| [**Visit**](https://sumitnce1.github.io)
 |**My Portfolio 1**| [**Visit**](http://sumitnce.ml)
 |**Simple Calculator**| [**Visit**](http://sumitcalsi.tk)
